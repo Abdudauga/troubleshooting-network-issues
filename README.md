@@ -35,6 +35,7 @@ Each lab folder contains:
 - Cisco Modeling Labs (CML)
 - Cisco IOSv routers
 - Alpine Linux hosts
+- Ansible
 
 ## About Me
 
