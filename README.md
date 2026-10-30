@@ -62,6 +62,6 @@ Troubleshooting is at the top because it takes the deepest understanding. You ha
 
 CCNA certified and working toward the CCNP.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](www.linkedin.com/in/abdumohammed)
 
 </div>
