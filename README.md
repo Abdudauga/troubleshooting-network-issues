@@ -22,7 +22,8 @@
 
 **R3:**
 
-<!-- Re-upload R3 screenshot here -->
+<img width="871" height="130" alt="{DFFE60D8-5774-420B-8147-DFA691361E8B}" src="https://github.com/user-attachments/assets/9f48ad12-15a1-4200-aaeb-04991080314d" />
+
 
 ---
 
